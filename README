@@ -1,3 +1,24 @@
 README.txt file
 This is the begining of a beautiful and educational endevour!
 
+OBJECTIVE:
+The Objective of this project is to serve as a work environment in 
+which I can learn to work with git repositories. 
+
+A repository is a directory (folder) that contains all of the files 
+associated with a single project.
+
+Git is a tool that handles project version control. Git keeps track of 
+each version of a project you create. 
+
+By using the "commit" command, you let Git know that your want to 
+save a file or the entire project as a version. 
+
+Any further edits will be considered a part of the next version. 
+
+You could potentially save the new version, and then return to a 
+previously saved (committed) version.
+
+
+
+
