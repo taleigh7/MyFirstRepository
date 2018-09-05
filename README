@@ -25,3 +25,6 @@ previously saved (committed) version.
 Testing:
 git commit -m "1st commit of index.html" index.html
 
+Testing:
+Change different line than uncommitted Master change to this file.
+
