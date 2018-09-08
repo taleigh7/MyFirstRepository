@@ -1,3 +1,6 @@
+So update from Origin Master. Should be no conflict with file one. No conflict master branch to master branch. 
+But master branch and new_feature don't match with file3. I think this should be okay.
+
 FILENAME: File1
 
 This is another file.
