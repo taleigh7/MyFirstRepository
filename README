@@ -1,3 +1,7 @@
+Looks like changing user.name (git --global user.name "taleigh7") to my 
+github username (not full name) allows me to push to "origin" so I don't 
+have to use the full url in the push command anymore.
+
 Test changing user.name from full name to taleigh7
 
 README.txt file
